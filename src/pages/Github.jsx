@@ -3,6 +3,7 @@ import { Moon, Sun } from "../assets";
 import { useTheme } from "../context/ThemeContext";
 import Details from "../components/github/Details";
 import Search from "../components/github/Search";
+
 const Github = () => {
   const [userData, setUserData] = useState({});
   const { theme, toggleTheme } = useTheme();

@@ -39,7 +39,7 @@ const Home = () => {
       {routes.map((r) => (
         <Link
           key={r.id}
-          className="relative my-2 inline-block w-fit font-semibold transition duration-500 after:absolute after:1-bottom-1 after:block after:h-[2px] after:w-full after:origin-left after:scale-x-0 after:bg-black after:transition after:duration-500 after:content-[''] after:hover:scale-x-100 lg:my-4"
+          className="relative my-2 inline-block w-fit font-semibold transition duration-500 after:absolute after:1-bottom-1 dark:after:bg-white after:block after:h-[2px] after:w-full after:origin-left after:scale-x-0 after:bg-black after:transition after:duration-500 after:content-[''] after:hover:scale-x-100 lg:my-4"
           to={r.path}
         >
           {r.id}
