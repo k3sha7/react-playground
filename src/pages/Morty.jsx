@@ -9,7 +9,7 @@ const Eye = ({ angle, axis }) => {
     <img
       className={"absolute text-6xl w-4 h-4 " + axis}
       style={{ transform }}
-      src="./src/assets/morty/eye.png"
+      src="/eye.png"
       alt="eye"
     />
   );
@@ -50,12 +50,7 @@ const Morty = () => {
         Terrified Morty <span className="text-base">(move your mouse)</span>
       </h1>
       <div className="w-[425px] h-[425px] relative scale-100">
-        <img
-          className="h-[420px]"
-          id="anchor"
-          src="./src/assets/morty/morty.png"
-          alt=":("
-        />
+        <img className="h-[420px]" id="anchor" src="/morty.png" alt=":(" />
         <Eye angle={angle} axis="top-[82px] left-[195px]" />
         <Eye angle={angle} axis="top-[76px] left-[232px]" />
       </div>
