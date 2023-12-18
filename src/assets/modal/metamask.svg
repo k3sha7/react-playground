@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 28 28">
+  <path fill="#fff" d="M0 0h28v28H0z"/>
+  <path fill="#E2761B" stroke="#E2761B" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" d="m24 3.1-8.7 6.5L17 5.8 24 3Z"/>
+  <path fill="#E4761B" stroke="#E4761B" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" d="m3.9 3.1 8.7 6.6-1.6-4L4 3.2ZM21 18.2l-2.4 3.5 5 1.4 1.4-4.8-4-.1ZM3 18.3 4.4 23l5-1.4L7 18.2H3Z"/>
+  <path fill="#E4761B" stroke="#E4761B" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" d="m9.1 12.1-1.4 2.1 5 .3-.2-5.4-3.4 3ZM18.9 12.1l-3.4-3-.2 5.4 5-.3-1.4-2ZM9.4 21.7l3-1.4-2.6-2-.4 3.4ZM15.6 20.3l3 1.4-.4-3.4-2.6 2Z"/>
+  <path fill="#D7C1B3" stroke="#D7C1B3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" d="m18.6 21.7-3-1.4.3 2v.8l2.7-1.4ZM9.4 21.7l2.8 1.4v-.9l.2-2-3 1.5Z"/>
+  <path fill="#233447" stroke="#233447" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" d="m12.2 17-2.5-.7 1.8-.8.7 1.5ZM15.8 17l.7-1.5 1.8.8-2.5.7Z"/>
+  <path fill="#CD6116" stroke="#CD6116" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" d="m9.4 21.7.4-3.5H7.1l2.3 3.5ZM18.2 18.2l.4 3.5 2.3-3.4-2.7-.1ZM20.3 14.2l-5 .3.5 2.5.7-1.5 1.8.8 2-2ZM9.7 16.3l1.8-.8.7 1.5.5-2.5-5-.3 2 2Z"/>
+  <path fill="#E4751F" stroke="#E4751F" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" d="m7.7 14.2 2 4v-2l-2-2ZM18.3 16.3l-.1 2 2-4-2 2ZM12.7 14.5l-.5 2.5.6 3 .1-4-.2-1.5ZM15.3 14.5l-.2 1.5.1 4 .6-3-.5-2.5Z"/>
+  <path fill="#F6851B" stroke="#F6851B" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" d="m15.8 17-.6 3 .4.3 2.6-2v-2l-2.4.7ZM9.7 16.3v2l2.7 2 .4-.3-.6-3-2.5-.7Z"/>
+  <path fill="#C0AD9E" stroke="#C0AD9E" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" d="M15.8 23v-.8l-.1-.2h-3.4l-.2.2v.9l-2.7-1.4 1 .8 2 1.4h3.3l2-1.4 1-.8-2.9 1.4Z"/>
+  <path fill="#161616" stroke="#161616" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" d="m15.6 20.3-.4-.3h-2.4l-.4.3-.3 2 .2-.3h3.4l.2.2-.3-2Z"/>
+  <path fill="#763D16" stroke="#763D16" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" d="m24.5 10 .7-3.5L24.1 3l-8.5 6.3L19 12l4.6 1.4 1-1.2-.4-.3.7-.7-.6-.4.7-.5-.4-.4ZM2.8 6.5l.7 3.5-.4.4.7.5-.6.4.7.7-.4.3 1 1.2L9.1 12l3.3-2.7L3.9 3 2.8 6.5Z"/>
+  <path fill="#F6851B" stroke="#F6851B" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1" d="M23.5 13.5 18.9 12l1.4 2.1-2.1 4H25l-1.5-4.7ZM9.1 12.1l-4.6 1.4L3 18.3h6.8l-2-4L9 12ZM15.3 14.5l.3-5.1L17 5.8h-6l1.4 3.6.3 5V20h2.5v-4l.1-1.5Z"/>
+</svg>
