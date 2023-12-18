@@ -37,7 +37,7 @@ const ModalContent = ({ theme }) => {
             Wallets are used to send, receive, store, and display digital assets
             like Ethereum and NFTs.
           </p>
-          <p className="mt-10 p-3 bg-neutral-200 rounded-md">
+          <p className="mt-10 p-3 bg-neutral-300/50 rounded-md">
             Try connecting your Metamask to retrieve just your walletId and you
             balance
           </p>
